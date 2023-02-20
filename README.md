@@ -1,4 +1,4 @@
-# dcsuh.github.io
+# Daniel Suh
 
 Hello world
 
