@@ -13,7 +13,7 @@ Links to project pages
 <br>
 
 # [temp_rsc_zoops](https://dcsuh.github.io/temp_rsc_zoops)
-[![](daphnia.png){width=20%}](https://dcsuh.github.io/temp_rsc_zoops)
+[![](images/daphnia.png){width=20%}](https://dcsuh.github.io/temp_rsc_zoops)
 
 <br>
 <br>
