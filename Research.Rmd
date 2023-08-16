@@ -4,10 +4,19 @@ output: html_document
 ---
 
 
-# transmission
+# Transmission of generalist parasites in multi-host communities
 
-# life history
+The transmission of generalist parasites is driven by multiple factors. Host species vary in quality and quantity in host communities and environmental factors such as temperature influence host community composition and can directly influence the parasite. Ranavirus is a generalist pathogen present in many amphibian wetland communities. I use ranavirus in larval amphibian communities as a model system to test how host community composition, abundance, and water temperature can jointly and independently influence transmission of a generalist parasite.
 
-# life table
+# Patterns in parasite species richness aross host traits
 
-# spatial
+The quality of an organism as a host may be correlated with a variety of host traits. Host life history may predict for host competence if tradeoffs between reproduction and immunity exist; host species with a relatively fast pace of life may invest more into reproduction and less in immunity, making it less able to defend against parasites. Host range size and location may predict for parasite exposure depending on how much area they occupy and whether that area is rich in parasite species. Host ecology may predict which parasites they encounter depending on their diet, interactions with other host species, and how affected they are by anthropogenic influences. Using large-scale databases on host traits and the identity of parasites within hosts over a broad range of host taxa, we can begin to understand how different host traits can predict their quality as host species.
+
+# Effects of temperature and resource conditions on a host-parasite interaction
+
+Within a species, organisms vary in their quality as host species. External factors such as temperature and resource availability can alter host physiology and behavior in ways that will influence their interactions with a parasite. Freshwater zooplankton, such as *Daphnia*, and their parasites can act as valuable systems for studying how different factors can affect host competence. Using *Daphnia dentifera* and their fungal parasite *Metschnikowia bicuspidata*, we tested how 3 levels of temperature and resource conditions would alter this host-parasite interaction at an individual-level. Using these data, we estimated epidemiological parameters that can be used to predict how this could scale to make predictions in a host population under these conditions.
+
+# Comparing host and parasite range
+
+
+
