@@ -1,0 +1,13 @@
+---
+title: "Research"
+output: html_document
+---
+
+
+# transmission
+
+# life history
+
+# life table
+
+# spatial
