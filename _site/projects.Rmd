@@ -1,0 +1,31 @@
+Links to project pages
+
+# [rana-competence](https://dcsuh.github.io/rana-competence)
+[![](images/tadpoles.png){width=20%}](https://dcsuh.github.io/rana-competence)
+
+<br>
+<br>
+<br>
+
+# [temp_rsc_zoops](https://dcsuh.github.io/temp_rsc_zoops)
+[![](images/daphnia.png){width=20%}](https://dcsuh.github.io/temp_rsc_zoops)
+
+<br>
+<br>
+<br>
+
+# [psr-pol](https://dcsuh.github.io/psr-pol)
+
+<br>
+<br>
+<br>
+
+# [microsporidians](https://dcsuh.github.io/microsporidians)
+
+<br>
+<br>
+<br>
+
+# [Back](https://dcsuh.github.io)
+
+<br>
