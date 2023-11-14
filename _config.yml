@@ -21,7 +21,7 @@
 title: Daniel Suh
 email: daniel.suh@uga.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Daniel Suh's personal website
+  disease ecologist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
